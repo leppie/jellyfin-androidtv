@@ -17,7 +17,7 @@ val ffmpegVideoMimeTypes = mapOf(
 	"mkv" to MimeTypes.VIDEO_MATROSKA,
 	"webm" to MimeTypes.VIDEO_WEBM,
 	"h263" to MimeTypes.VIDEO_H263,
-	"h254" to MimeTypes.VIDEO_H264,
+	"h264" to MimeTypes.VIDEO_H264,
 	"h265" to MimeTypes.VIDEO_H265,
 	"vp8" to MimeTypes.VIDEO_VP8,
 	"vp9" to MimeTypes.VIDEO_VP9,
